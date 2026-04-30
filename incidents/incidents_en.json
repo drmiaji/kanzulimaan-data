@@ -1021,5 +1021,16 @@
         "category": "MUJADDID",
         "color": -769226,
         "priority": 7
-    }
+    },
+	{
+    "id": "weekly_sunday_gathering",
+    "dateType": "WEEKLY",
+    "weekday": 1,
+    "title": "Weekly Mahfil",
+    "description": "A gathering every Sunday.",
+    "icon": "🤝",
+    "category": "SOCIAL",
+    "color": -16741541,
+    "priority": 5
+}
 ]
