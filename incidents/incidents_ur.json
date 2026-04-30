@@ -1034,5 +1034,31 @@
         "category":  "MUJADDID",
         "color":  -769226,
         "priority":  7
-    }
+    },
+	{
+    "id": "weekly_sunday_gathering",
+    "dateType": "WEEKLY",
+    "weekday": 1,
+    "title": "ہفتہ وار مجلس",
+    "description": "ہر اتوار کو ایک اجتماع۔",
+    "icon": "🤝",
+    "category": "OBSERVANCE",
+    "color": -16741541,
+    "priority": 5
+},
+{
+    "id": "special_saturday_2_may_2025",
+    "dateType": "GREGORIAN",
+    "gregorianMonth": 5,
+    "gregorianDay": 2,
+    "hijriMonth": 0,
+    "hijriDay": 0,
+    "hijriYear": 0,
+    "title": "خصوصی اتوار اجتماع - 2 مئی",
+    "description": "4 مئی 2025 کو ایک خصوصی ایک بارہ اجتماع۔",
+    "icon": "⭐",
+    "category": "OBSERVANCE",
+    "color": -16741541,
+    "priority": 6
+}
 ]
