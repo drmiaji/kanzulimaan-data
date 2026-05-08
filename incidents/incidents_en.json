@@ -1032,20 +1032,5 @@
     "category": "OBSERVANCE",
     "color": -16741541,
     "priority": 5
-   },
-   {
-    "id": "special_saturday_2_may_2025",
-    "dateType": "GREGORIAN",
-    "gregorianMonth": 5,
-    "gregorianDay": 2,
-    "hijriMonth": 0,
-    "hijriDay": 0,
-    "hijriYear": 0,
-    "title": "Special Sunday Gathering - 2 May",
-    "description": "A special one-off gathering on 4th May 2025.",
-    "icon": "⭐",
-    "category": "OBSERVANCE",
-    "color": -16741541,
-    "priority": 6   
    }
 ]
